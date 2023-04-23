@@ -29,7 +29,7 @@ In the WrappedListComponent component, useState was used incorrectly.
 incorrect one:
 
 ```
-const [setSelectedIndex,selectedIndex] = useState([]);
+const [setSelectedIndex,selectedIndex] = useState();
 
 ```
 
