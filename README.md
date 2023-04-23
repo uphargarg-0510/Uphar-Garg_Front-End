@@ -132,19 +132,19 @@ We can remove the above code.
  
 # Code Output after removing the error
 
-![Output](E:\COMPANY DRIVE\steel eye\steeleye\output_pic\Output.png)
+![Screenshot (157)](https://user-images.githubusercontent.com/72004195/233856818-8d627cf3-181e-488c-808e-75cacd4f1ff2.png)
 
 
 # Code Optimization
 
 #### Before Optimization of code the WrappedSingleListItem renders multiple times when we click on the list item
 
-![Output_before_optimization](E:\COMPANY DRIVE\steel eye\steeleye\output_pic\Output_before_optimization.png)
+![Screenshot (158)](https://user-images.githubusercontent.com/72004195/233856834-0cdaae33-b262-4b28-942e-ddbb9ea17378.png)
 
 
 #### After Optimization of code the WrappedSingleListItem renders only 1 times when we click on the list item
 
+![Screenshot (159)](https://user-images.githubusercontent.com/72004195/233856850-6b98daf5-5af8-459f-a361-cc9a16d27b48.png)
 
-![Output_after_optimization](E:\COMPANY DRIVE\steel eye\steeleye\output_pic\Output_after_optimization.png)
 
 
