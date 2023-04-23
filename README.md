@@ -132,7 +132,7 @@ We can remove the above code.
  
 # Code Output after removing the error
 
-![Output](E:\COMPANY DRIVE\steel eye\steeleye\output_pic\Output.png)
+![Output](https://user-images.githubusercontent.com/72004195/233855447-bf036993-8f23-4da9-bf8a-2ca085b2b660.png)
 
 
 # Code Optimization
