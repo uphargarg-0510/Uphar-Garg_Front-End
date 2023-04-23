@@ -11,7 +11,7 @@ The following code defines a React component called "List" that accepts an array
 
 The "List" component uses the "map" method to render each item in the "items" array as a "SingleListItem" component. It also maintains state for "selectedIndex" and defines a click handler to update the "selectedIndex" state variable when a "SingleListItem" is clicked. 
 
-## Total 6 Errors Found.
+## Total 6 Errors Found & Optimization of Code.
 
 ### Error 1
 
