@@ -139,12 +139,11 @@ We can remove the above code.
 
 #### Before Optimization of code the WrappedSingleListItem renders multiple times when we click on the list item
 
-![Output_before_optimization](E:\COMPANY DRIVE\steel eye\steeleye\output_pic\Output_before_optimization.png)
+![Output_after_optimization](https://user-images.githubusercontent.com/72004195/233855549-4946c2cd-fb6a-49fe-a166-ac4ba9f744ff.png)
 
 
 #### After Optimization of code the WrappedSingleListItem renders only 1 times when we click on the list item
 
-
-![Output_after_optimization](E:\COMPANY DRIVE\steel eye\steeleye\output_pic\Output_after_optimization.png)
+![Output_before_optimization](https://user-images.githubusercontent.com/72004195/233855575-f8976fba-b71e-40d1-87b8-8a09bcec87e3.png)
 
 
