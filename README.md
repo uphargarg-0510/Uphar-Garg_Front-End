@@ -132,19 +132,19 @@ We can remove the above code.
  
 # Code Output after removing the error
 
-![Output](https://user-images.githubusercontent.com/72004195/233855447-bf036993-8f23-4da9-bf8a-2ca085b2b660.png)
+![Screenshot (157)](https://user-images.githubusercontent.com/72004195/233856818-8d627cf3-181e-488c-808e-75cacd4f1ff2.png)
 
 
 # Code Optimization
 
 #### Before Optimization of code the WrappedSingleListItem renders multiple times when we click on the list item
 
-![Output_before_optimization](https://user-images.githubusercontent.com/72004195/233855575-f8976fba-b71e-40d1-87b8-8a09bcec87e3.png)
+![Screenshot (158)](https://user-images.githubusercontent.com/72004195/233856834-0cdaae33-b262-4b28-942e-ddbb9ea17378.png)
 
 
 #### After Optimization of code the WrappedSingleListItem renders only 1 times when we click on the list item
 
-![Output_after_optimization](https://user-images.githubusercontent.com/72004195/233855549-4946c2cd-fb6a-49fe-a166-ac4ba9f744ff.png)
+![Screenshot (159)](https://user-images.githubusercontent.com/72004195/233856850-6b98daf5-5af8-459f-a361-cc9a16d27b48.png)
 
 
 
