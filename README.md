@@ -3,6 +3,14 @@
 
 #### Uphar Garg | 12006715 | uphargarg0510@gmail.com |
 
+## Explanation of List Component
+
+The following code defines a React component called "List" that accepts an array of items as a prop and displays a list of those items. It uses two other components, "SingleListItem" and "WrappedSingleListItem," to render each item in the list.
+
+"SingleListItem" is a memoized version of "WrappedSingleListItem" that receives props like index, isSelected, onClickHandler, and text. It renders an "li" element containing the text of the item and sets a background color based on the "isSelected" prop.
+
+The "List" component uses the "map" method to render each item in the "items" array as a "SingleListItem" component. It also maintains state for "selectedIndex" and defines a click handler to update the "selectedIndex" state variable when a "SingleListItem" is clicked. 
+
 ## Total 6 Errors Found.
 
 ### Error 1
